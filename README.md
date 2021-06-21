@@ -1,5 +1,5 @@
 ### Party Page place
-This website was create by Liudas Panavas and Yihong Wang for CS5610 Web Development at Northeastern 
+This website was create by Yihong Wang for CS5610 Web Development at Northeastern 
 
 ### Demo
 https://www.youtube.com/watch?v=gHjUmQ1dkOU
